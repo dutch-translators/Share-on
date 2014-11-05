@@ -6,6 +6,7 @@
 * @package language Share On
 * @copyright (c) 2013 Vinny
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 *
 */
 
@@ -29,7 +30,7 @@ $lang = array_merge($lang, array(
 	'SO_SELECT'			=> 'Delen via',
 	'SO_VERSION_OLD'	=> 'Huidige versie van de extensie',
 	'SO_VERSION_NEW'	=> 'Laatste versie van de extensie',
-	'SO_SAVED'			=> 'Instellingen succesvol bijgewerkt…',
+	'SO_SAVED'			=> 'Instellingen succesvol bijgewerktâ€¦',
 	'SO_STATUS'			=> 'Delen via extensie inschakelen',
 	'SO_FACEBOOK'		=> 'Facebook',
 	'SO_TWITTER'		=> 'Twitter',
