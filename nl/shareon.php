@@ -6,6 +6,7 @@
 * @package language Share On
 * @copyright (c) 2013 Vinny
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 *
 */
 
